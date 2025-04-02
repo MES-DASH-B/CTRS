@@ -6,7 +6,7 @@ from PIL import Image
 from millify import millify
 import numpy as np
 import plotly.graph_objects as go
-import paho.mqtt.client as mqtt
+#import paho.mqtt.client as mqtt
 import json
 import time
 import threading
