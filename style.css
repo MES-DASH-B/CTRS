@@ -1,0 +1,25 @@
+/* style.css */
+.metric-container {
+  background-color: #007BFF; /* Blue background */
+  padding: 20px;
+  border-radius: 10px;
+  font-weight: lighter;
+  text-align: center;
+  margin: 10px;
+  color: white; /* White text for contrast */
+}
+.metric-label {
+  font-size: 20px;
+  font-weight: lighter;
+  text-align: center;
+  margin: 0;
+}
+.metric-value {
+  font-size: 50px;
+  font-weight: bold;
+  margin: 0;
+}
+.metric-delta {
+  font-size: 18px;
+  margin: 0;
+}
